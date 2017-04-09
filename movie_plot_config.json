@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Movie Plots Embeddings",
+      "tensorShape": [
+        1843,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/parulsethi/DocViz/master/d2v_tensor.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/parulsethi/DocViz/master/d2v_metadata.tsv"
+    }
+  ]
+}
