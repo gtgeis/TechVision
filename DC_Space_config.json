@@ -4,7 +4,7 @@
       "tensorName": "DC space",
       "tensorShape": [
         4214,
-        1
+        64
       ],
       "tensorPath": "https://raw.githubusercontent.com/gtgeis/TechVision/DC_tensor.tsv",
       "metadataPath": "https://raw.githubusercontent.com/gtgeis/TechVision/master/DC_metadata.tsv"
