@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "Movie Plots Embeddings",
+      "tensorName": "DC space",
       "tensorShape": [
         1843,
         50
