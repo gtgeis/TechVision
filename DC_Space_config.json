@@ -3,11 +3,11 @@
     {
       "tensorName": "DC space",
       "tensorShape": [
-        1843,
-        50
+        4214,
+        64
       ],
-      "tensorPath": "https://raw.githubusercontent.com/parulsethi/DocViz/master/d2v_tensor.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/parulsethi/DocViz/master/d2v_metadata.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/gtgeis/TechVision/DC_tensor.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/gtgeis/TechVision/master/DC_metadata.tsv"
     }
   ]
 }
