@@ -3,7 +3,7 @@
     {
       "tensorName": "DC space",
       "tensorShape": [
-        5099,
+        5299,
         64
       ],
       "tensorPath": "https://raw.githubusercontent.com/gtgeis/TechVision/master/DC_tensor.tsv",
