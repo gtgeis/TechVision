@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "DC space",
+      "tensorName": "DC space Q4 2018 -- G.Geis",
       "tensorShape": [
         4952,
         64
