@@ -3,7 +3,7 @@
     {
       "tensorName": "DC space Q4 2018 Geis",
       "tensorShape": [
-        4952,
+        6152,
         64
       ],
       "tensorPath": "https://raw.githubusercontent.com/gtgeis/TechVision/master/DC2_tensor.tsv",
