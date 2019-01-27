@@ -3,7 +3,7 @@
     {
       "tensorName": "Streaming space Q4 2018 Geis",
       "tensorShape": [
-        5270,
+        4444,
         64
       ],
       "tensorPath": "https://raw.githubusercontent.com/gtgeis/TechVision/master/SM_tensor.tsv",
