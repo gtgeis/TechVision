@@ -3,7 +3,7 @@
     {
       "tensorName": "DisneyNetflix 2019Q1 Geis",
       "tensorShape": [
-        3984,
+        615,
         64
       ],
       "tensorPath": "https://raw.githubusercontent.com/gtgeis/TechVision/master/DisNflxJanMar19_metadata.tsv",
