@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "DisneyNetflix 2019Q1 Geis",
+      "tensorShape": [
+        3984,
+        64
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/gtgeis/TechVision/master/DisNflxJanMar19_metadata.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/gtgeis/TechVision/master/DisNflxJanMar19_metadata.tsv"
+    }
+  ]
+}
