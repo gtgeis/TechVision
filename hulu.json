@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Hulu Geis",
+      "tensorShape": [
+        936,
+        64
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/gtgeis/TechVision/master/hulu_tensor.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/gtgeis/TechVision/master/hulu_metadata.tsv"
+    }
+  ]
+}
