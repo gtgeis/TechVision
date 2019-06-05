@@ -3,7 +3,7 @@
     {
       "tensorName": "Hulu Geis",
       "tensorShape": [
-        902,
+        901,
         64
       ],
       "tensorPath": "https://raw.githubusercontent.com/gtgeis/TechVision/master/hulu_tensor.tsv",
