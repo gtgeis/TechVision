@@ -6,8 +6,8 @@
         6912,
         64
       ],
-      "tensorPath": "https://raw.githubusercontent.com/gtgeis/TechVision/master/DC2_tensor.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/gtgeis/TechVision/master/DC2_metadata.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/gtgeis/TechVision/master/NflxDis40_tensor.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/gtgeis/TechVision/master/NflxDis40_metadata.tsv"
     }
   ]
 }
