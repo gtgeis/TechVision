@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Netflix 40 days after Dis+ Geis",
+      "tensorShape": [
+        6912,
+        64
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/gtgeis/TechVision/master/DC2_tensor.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/gtgeis/TechVision/master/DC2_metadata.tsv"
+    }
+  ]
+}
